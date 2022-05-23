@@ -1,4 +1,9 @@
-### Hi there 👋
+## プロフィール
+- 名前：樽本空宙 (Tarumoto Sora)
+- 所属：愛媛大学 工学部工学科 応用情報工学コース 人工知能研究室
+- 研究分野：自然言語処理
+- Email：tarumoto@ai.cs.ehime-u.ac.jp
+
 
 <!--
 **TaruSora/TaruSora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
