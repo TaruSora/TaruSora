@@ -9,7 +9,7 @@
   NLP若手の会第17回シンポジウム, P3-3, August 2022.
   
 ## 資格
-- SIGNATE Expert [Profile](https://signate.jp/users/81008)
+- SIGNATE Expert [[Profile](https://signate.jp/users/81008)]
 
 
 
