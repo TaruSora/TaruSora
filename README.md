@@ -4,6 +4,11 @@
 - 研究分野：自然言語処理
 - Email：tarumoto@ai.cs.ehime-u.ac.jp
 
+## 研究業績
+- 樽本空宙, 鈴木陽也, 梶原智之, 二宮崇, 中島悠太, 長原一. 感情極性分類と感情強度推定の同時学習の検討. NLP若手の会第17回シンポジウム, P3-3, August 2022.
+
+
+
 
 <!--
 **TaruSora/TaruSora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
