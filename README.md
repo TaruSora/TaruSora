@@ -1,10 +1,13 @@
 ## プロフィール
 - 名前：樽本空宙 (Tarumoto Sora)
 - 所属：愛媛大学 工学部工学科 応用情報工学コース 人工知能研究室
-- 研究分野：自然言語処理
+- 研究分野：自然言語処理, 感情分析
 - Email：tarumoto@ai.cs.ehime-u.ac.jp
 
 ## 研究業績
+- Haruya Suzuki, Sora Tarumoto, Tomoyuki Kajiwara, Takashi Ninomiya, Yuta Nakashima (Osaka University), Hajime Nagahara (Osaka University). Emotional Intensity Estimation based on Writer's Personality<br>
+  In Proceedings of the AACL-IJCNLP 2022 Student Research Workshop (AACL-IJCNLP 2022 SRW), Taipei, Taiwan, November 2022.
+
 - 樽本空宙, 鈴木陽也, 梶原智之, 二宮崇, 中島悠太, 長原一. 感情極性分類と感情強度推定の同時学習の検討.<br> 
   NLP若手の会第17回シンポジウム, P3-3, August 2022.
   
