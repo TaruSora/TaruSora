@@ -13,6 +13,7 @@
   
 ## 資格
 - SIGNATE Expert [[Profile](https://signate.jp/users/81008)]
+- 実用英語技能検定2級
 
 
 
