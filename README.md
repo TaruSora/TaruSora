@@ -16,7 +16,7 @@ JParaBank：機械翻訳に基づく大規模な日本語言い換え文対の�
   NLP若手の会第17回シンポジウム, P3-3, August 2022.
   
 ## 資格
-- 基本情報技術者
+- 基本情報技術者試験
 - SIGNATE Expert [[Profile](https://signate.jp/users/81008)]
 - 実用英語技能検定2級
 
