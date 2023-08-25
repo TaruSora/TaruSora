@@ -18,11 +18,6 @@ JParaBank：機械翻訳に基づく大規模な日本語言い換え文対の�
 
 - 樽本空宙, 鈴木陽也, 梶原智之, 二宮崇, 中島悠太, 長原一. 感情極性分類と感情強度推定の同時学習の検討.<br> 
   NLP若手の会第17回シンポジウム, P3-3, August 2022.
-  
-## 資格
-- 基本情報技術者試験
-- SIGNATE Expert [[Profile](https://signate.jp/users/81008)]
-- 実用英語技能検定2級
 
 ## インターンシップ
 ### エンジニア
@@ -35,7 +30,10 @@ JParaBank：機械翻訳に基づく大規模な日本語言い換え文対の�
 ### 研究
 - 日本電気株式会社(2023/08~)
 
-
+## 資格
+- 基本情報技術者試験
+- SIGNATE Expert [[Profile](https://signate.jp/users/81008)]
+- 実用英語技能検定2級
 
 <!--
 **TaruSora/TaruSora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
