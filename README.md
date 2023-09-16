@@ -14,7 +14,7 @@
 - Haruya Suzuki, Sora Tarumoto, Tomoyuki Kajiwara, Takashi Ninomiya, Yuta Nakashima (Osaka University), Hajime Nagahara (Osaka University). Emotional Intensity Estimation based on Writer's Personality<br>
 In Proceedings of the AACL-IJCNLP 2022 Student Research Workshop (AACL-IJCNLP 2022 SRW), Taipei, Taiwan, November 2022.
 
-- 樽本空宙, 鈴木陽也, 梶原智之, 二宮崇, 中島悠太, 長原一. 感情極性分類と感情強度推定の同時学習の検討.<br> 
+- 樽本空宙, 鈴木陽也, 梶原智之, 二宮崇, 中島悠太（大阪大学）, 長原一（大阪大学）. 感情極性分類と感情強度推定の同時学習の検討.<br> 
 NLP若手の会第17回シンポジウム, P3-3, August 2022.
 
 ## 受賞
