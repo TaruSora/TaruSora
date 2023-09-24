@@ -36,7 +36,7 @@ NLP若手の会第17回シンポジウム, P3-3, August 2022.
 ## 資格・スキル
 - 基本情報技術者試験
 - 実用英語技能検定2級
-- SIGNATE Expert [[Profile](https://signate.jp/users/81008)]
+- SIGNATE Expert
 
 <!--
 **TaruSora/TaruSora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
