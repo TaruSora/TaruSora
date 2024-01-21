@@ -6,7 +6,7 @@
 
 ## 研究
 - 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. ChatGPTの日本語生成能力の評価.<br>
-自然言語処理, vol.31 No.2, June 2024.（to appear）
+自然言語処理, vol.31 No.2, June 2024.（[[to appear]](https://anlp.jp/guide/saitaku.html)）
 
 - 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. 系列変換タスクにおける ChatGPT の日本語生成能力の評価.<br>
 第22回情報科学技術フォーラム, E-022, September 2023. [[PDF]](https://moguranosenshi.sakura.ne.jp/publications/fit2023-tarumoto.pdf)
