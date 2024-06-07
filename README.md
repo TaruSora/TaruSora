@@ -1,3 +1,4 @@
+<!--
 ## プロフィール
 - 名前：樽本空宙 (Tarumoto Sora)
 - 所属：愛媛大学大学院 理工学研究科 理工学専攻 [人工知能研究室](https://sites.google.com/view/ehime-nlp/)
@@ -24,6 +25,7 @@ NLP若手の会第17回シンポジウム, P3-3, August 2022.
 - 第22回情報科学技術フォーラム (FIT2023) 奨励賞
   >樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. 系列変換タスクにおける ChatGPT の日本語生成能力の評価.<br>
   >第22回情報科学技術フォーラム, E-022, September 2023. [[PDF]](https://moguranosenshi.sakura.ne.jp/publications/fit2023-tarumoto.pdf)
+  -->
 <!--
 ## インターンシップ
 ### エンジニア
