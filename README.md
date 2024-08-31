@@ -8,6 +8,9 @@
 - 樽本空宙, 梶原智之, 二宮崇. 大規模言語モデルによる機械翻訳の教師なし品質推定.<br>
 NLP若手の会第19回シンポジウム, S1-P07, September 2024.
 
+- 畠垣光希, 樽本空宙, 梶原智之, 二宮崇. タスクの特性を考慮した教師なしパラレルコーパスフィルタリング<br>
+人工知能学会第38回全国大会, 3Xin2-60, May 2024. [[PDF]](https://www.jstage.jst.go.jp/article/pjsai/JSAI2024/0/JSAI2024_3Xin260/_article/-char/ja)
+
 - 樽本空宙, 畠垣光希, 宮田莉奈, 梶原智之, 二宮崇. ChatGPTの日本語生成能力の評価.<br>
 自然言語処理, vol.31 No.2, June 2024.[[PDF]](https://www.jstage.jst.go.jp/article/jnlp/31/2/31_349/_article/-char/ja)
 
