@@ -5,6 +5,9 @@
 - Email：tarumoto@ai.cs.ehime-u.ac.jp
 
 ## 研究
+- 樽本空宙, 梶原智之, 二宮崇. 大規模言語モデルの文生成確率を用いた教師なし品質推定.<br>
+言語処理学会第31回年次大会, P7-10, March 2025. [[PDF]](https://www.anlp.jp/proceedings/annual_meeting/2025/pdf_dir/P7-10.pdf) [[code]](https://github.com/EhimeNLP/LFORD)
+
 - 樽本空宙, 梶原智之, 二宮崇. 大規模言語モデルによる機械翻訳の教師なし品質推定.<br>
 NLP若手の会第19回シンポジウム, S1-P07, September 2024.
 
